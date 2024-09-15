@@ -2,4 +2,4 @@
 .vscode
 
 # Dev container configuration
-backend/.devcontainer
+.devcontainer
