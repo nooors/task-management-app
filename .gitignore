@@ -1,0 +1,5 @@
+#Ignore Visual Studio Code Folder
+.vscode
+
+# Dev container configuration
+backend/.devcontainer
